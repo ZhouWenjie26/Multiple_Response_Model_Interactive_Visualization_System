@@ -27,15 +27,7 @@ Simply click the link below - runs directly in your browser with no installation
 
 ## 📚 Citation
 
-```bibtex
-@article{zhou2026psychometric,
-  title={Psychometric Model Framework for Multiple Response Items},
-  author={Zhou, Wenjie and Guo, Lei},
-  journal={Psychometrika},
-  year={2026},
-  doi={10.1017/psy.2025.10073}
-}
-```
+Zhou, W., & Guo, L. (2026). Psychometric Model Framework for Multiple Response Items. Psychometrika . doi:10.1017/psy.2025.10073
 
 ## 📝 License
 
